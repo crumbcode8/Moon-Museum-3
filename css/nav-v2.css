@@ -1,0 +1,28 @@
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 28px;
+  background: rgba(255,255,255,0.15);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+}
+
+.logo {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 0 8px rgba(255,255,255,0.8);
+}
+
+.nav-links a {
+  margin-left: 20px;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  text-shadow: 0 0 6px rgba(255,255,255,0.8);
+}
+
+.hamburger {
+  display: none;
+}
