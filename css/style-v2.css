@@ -6,7 +6,7 @@
 }
 
 body.moon-bg {
-  background: url("images/moon-kingdom-bg.jpeg") no-repeat center/cover fixed;
+  background: url("images/moon-kingdom.jpeg") no-repeat center/cover fixed;
   min-height: 100vh;
   font-family: "Poppins", sans-serif;
   color: #fff;
